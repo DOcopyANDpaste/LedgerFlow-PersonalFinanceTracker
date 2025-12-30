@@ -1,0 +1,5 @@
+{
+  "name": "LedgerFlow - Double Entry Tracker",
+  "description": "A professional double-entry accounting application with tree-based ledger management, split transaction support, and AI-powered financial analysis. Designed to practice ledger accounting with budgeting capabilities.",
+  "requestFramePermissions": []
+}

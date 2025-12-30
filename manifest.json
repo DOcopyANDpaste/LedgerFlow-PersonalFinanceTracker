@@ -1,0 +1,10 @@
+{
+	"id": "ledger-flow",
+	"name": "LedgerFlow",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Double-entry accounting tracker with AI analysis",
+	"author": "LedgerFlow",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
